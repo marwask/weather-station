@@ -2,8 +2,8 @@
 Weather station with multi display, mqtt and multi sensor support
 
 # Installation
-sudo apt install python3-pip
-sudo apt-get install python3-dev libfreetype6-dev libportmidi-dev libsdl1.2-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev python3-dateutil
+sudo apt install python3-pip<br/>
+sudo apt-get install python3-dev libfreetype6-dev libportmidi-dev libsdl1.2-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev python3-dateutil<br/>
 pip3 install -r requirements.txt
 
 # Screenshots
