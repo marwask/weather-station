@@ -19,4 +19,4 @@ Raspberry Pi Zero W, Waveshare LCD (4 inch, 320x480)<br/>
 # 3D print designs
 [Raspberry Pi Zero Waveshare 3.5 inch LCD case](https://www.thingiverse.com/thing:3903084)<br/>
 [Raspberry Pi Zero Waveshare 4inch LCD case](https://www.thingiverse.com/thing:3903161)<br/>
-[BananaPi BPI-P2 Zero / Raspberry Pi Zero W Waveshare 7inch LCD case]()
+[BananaPi BPI-P2 Zero / Raspberry Pi Zero W Waveshare 7inch LCD case](https://www.thingiverse.com/thing:4299571)
