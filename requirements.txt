@@ -1,0 +1,7 @@
+pygame
+pytz
+paho-mqtt
+python-yr
+python-dateutil
+Adafruit-GPIO
+Adafruit-PureIO
